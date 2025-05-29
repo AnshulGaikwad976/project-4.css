@@ -36,11 +36,11 @@ p:not(:first-of-type) {
 }
 
 ul>li::before {
-    content: "🚀";
+    content: "👨‍🏫";
 }
 
 a::after {
-    content: "🌌";
+    content: "👨‍🏫";
 }
 
 p::first-letter {
